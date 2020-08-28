@@ -125,7 +125,7 @@ Futarigake: Jiyu
 2. KUMMITACHI HENKA (Ken-no-ri)
 3. KI-MUSUBI-NO-TACHI
 
-Tantodori:
+**Tantodori:**
 
 SHOMENUCHI – Gokyo, Iriminage
 
@@ -137,17 +137,17 @@ TSUKI – Ikkyo, Iriminage, Hijikimeosae
 
 KATADORI-TSUKI, USHIRO-ERIDORI (2 τεχνικές από κάθε επίθεση)
 
-Tachidori:
+**Tachidori:**
 
 SHOMENUCHI, YOKOMENUCHI, TSUKI (3 τεχνικές για κάθε επίθεση)
 
-Jodori:
+**Jodori:**
 
 SHOMENUCHI, TSUKI (3 τεχνικές για κάθε επίθεση)
 
 Jowaza (διάφορα πιασίματα): 5 τεχνικές
 
-Suwariwaza:
+**Suwariwaza:**
 
 MUNADORI – Ikkyo, Nikyo, Sankyo, Yonkyo, Iriminage
 
@@ -155,7 +155,7 @@ SHOMENUCHI – Jiyuwaza
 
 YOKOMENUCHI – Jiyuwaza
 
-Hanmi-Handachiwaza:
+**Hanmi-Handachiwaza:**
 
 KATATERYOTEDORI – Ikkyo, Nikyo, Sankyo, Yonkyo, Iriminage, Kotegaeshi
 
