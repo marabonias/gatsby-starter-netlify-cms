@@ -102,3 +102,6 @@ a.navbar-item:hover{
 .blog-list-item.is-featured {
     background-color: #ffe4d0 !important;
 }
+.section{
+  background-color: #e2e2e2 !important;
+}
