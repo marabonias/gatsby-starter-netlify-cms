@@ -1,28 +1,28 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /dan
 title: Ύλη εξετάσεων DAN
+---
+- - -
 
----
----
 ### 1 DAN – SHODAN
-1. BOKKEN AWASE (1-7)
 
+1. BOKKEN AWASE (1-7)
 2. JO AWASE (1-8)
 
-Suwariwaza:
+**Suwariwaza:**
 
 SHOMENUCHI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Iriminage
 
 TSUKI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Iriminage
 
-Hanmi-handachiwaza:
+**Hanmi-handachiwaza:**
 
 SHOMENUCHI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Iriminage
 
 KATATEDORI – Shihonage, Kaitennage (uchi, soto)
 
-Tachiwaza:
+**Tachiwaza:**
 
 RYOTEDORI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Shihonage, Kokyounage, Tenchinage
 
@@ -34,13 +34,13 @@ KATADORI – Kokyounage, Nikyo
 
 KATATERYOTEDORI – Kokyouho
 
-Ushirowaza:
+**Ushirowaza:**
 
 RYOTEDORI – Ikkyo, Nikyo, Sankyo, Yonkyo, Shihonage, Jujigarame, Koshinage
 
 KATATE-KUBIJIME – Ikkyo, Nikyo, Sankyo, Yonkyo, Iriminage, Jujigarame, Koshinage
 
-Henka Oyou waza:
+**Henka Oyou waza:**
 
 Suwariwaza-kokyouho (παραλλαγές από διάφορες επιθέσεις)
 
@@ -55,13 +55,10 @@ TORIWAZA – Περίπου 1 λεπτό τεχνικές από διαφορε�
 
 UCHIWAZA / TSUKIWAZA – Περίπου 1 λεπτό τεχνικές από διαφορετικές επιθέσεις χτυπημάτων
 
-
 ### 2 DAN – NIDAN
 
 1. Περιλαμβάνεται η ύλη του Shodan
-
 2. KUMMIJO (1-10)
-
 3. KUMMITACHI (1-5)
 
 Tantodori:
@@ -122,12 +119,10 @@ Futaridori (στατικά): Shihonage, Kokyounage (2 παραλλαγές)
 
 Futarigake: Jiyu
 
-
 ### 3 DAN – SANDAN
+
 1. Συμπεριλαμβάνεται η ύλη του NIDAN
-
 2. KUMMITACHI HENKA (Ken-no-ri)
-
 3. KI-MUSUBI-NO-TACHI
 
 Tantodori:
@@ -200,14 +195,11 @@ FUTARIDORI (στατικά): Ikkyo, Nikyo, Yonkyo, Kokyounage (2 παραλλα�
 
 SANNIN GAKE: Jiyu
 
-
 ### 4 DAN – YONDAN
+
 1. Συμπεριλαμβάνεται η ύλη των SHODAN, NIDAN, SANDAN
-
 2. KUMMITACHI-HENKAWAZA (Tai-no-ri)
-
 3. KEN-TAI-JO (1-7 με παραλλαγές, αν υπάρχουν)
-
 4. Διάφορες μορφές JIYU-WAZA
 
 GERI DORI: 3 τεχνικές
