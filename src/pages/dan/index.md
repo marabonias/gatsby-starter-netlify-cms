@@ -61,7 +61,7 @@ UCHIWAZA / TSUKIWAZA – Περίπου 1 λεπτό τεχνικές από δ�
 2. KUMMIJO (1-10)
 3. KUMMITACHI (1-5)
 
-Tantodori:
+**Tantodori:**
 
 SHOMENUCHI – Iriminage, Gokyo, Kotegaeshi
 
@@ -71,19 +71,19 @@ TSUKI – Kokyouho, Kotegaeshi, Nikyo
 
 KATADORI-TSUKI, USHIRO-ERIDORI (Μία τεχνική για κάθε επίθεση)
 
-Suwariwaza:
+**Suwariwaza:**
 
 YOKOMENUCHI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Iriminage
 
 KATATEDORI – Ikkyo, Nikko, Sankyo, Yonkyo, Kotegaeshi, Iriminage
 
-Hanmi-Handachiwaza:
+**Hanmi-Handachiwaza:**
 
 KATADORI – Ikkyo, Nikyo, Sankyo, Yonkyo, Iriminage
 
 USHIRO-RYOKATADORI – Kokyounage, Ikkyo, Sankyo, Kotegaeshi
 
-Tachiwaza:
+**Tachiwaza:**
 
 KATATERYOTEDORI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Iriminage, Shihonage
 
@@ -95,7 +95,7 @@ YOKOMENUCHI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kaitennage
 
 JODAN-TSUKI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Shihonage, Kaitennage, Kaitenosae, Udegarami
 
-Ushirowaza:
+**Ushirowaza:**
 
 RYOHIJIDORI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Aikiotoshi
 
@@ -103,7 +103,7 @@ RYOHIJIDORI – Kokyounage (3 παραλλαγές)
 
 RYOTEDORI – Jiyuwaza
 
-Henka oyou waza:
+**Henka oyou waza:**
 
 KATATERYOTEDORI – Kokyouho (3 olika)
 
@@ -111,7 +111,7 @@ MUNADORI (με στρίψιμο στη λαβή) – Ikkyo, Nikyo
 
 MUNADORI (με στρίψιμο στη λαβή) – Iriminage (2 παραλλαγές)
 
-Kaeshi waza:
+**Kaeshi waza:**
 
 SHOMENUCHI – Kotegaeshi, Ikkyo, Nikyo (2 παραλλαγές)
 
