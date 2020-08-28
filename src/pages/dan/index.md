@@ -163,7 +163,7 @@ SHOMENUCHI – Jiyuwaza
 
 YOKOMENUCHI – Jiyuwaza
 
-Tachiwaza:
+**Tachiwaza:**
 
 RYOKATADORI – Ikkyo, Nikyo, Sankyo, Yonkyo, kokyounage
 
@@ -173,13 +173,13 @@ JODAN-TSUKI – Jiyuwaza
 
 CHUDAN-TSUKI – Jiyuwaza
 
-Ushirowaza:
+**Ushirowaza:**
 
 KAKAE – Ikkyo, Aikiotoshi, Kokyounage (2 παραλλαγές)
 
 HAGAIJIME – Iriminage
 
-Henka oyou waza:
+**Henka oyou waza:**
 
 RENZOKUWAZA (2 παραλλαγές ανά τεχνική):
 SHOMENUCHI-Ikkyo-Jiyu (Τουλάχιστον 3 τεχνικές)
@@ -187,7 +187,7 @@ SHOMENUCHI-Nikyo(ura) – Koshinage
 SHOMENUCHI-Nikyo(ura) – Jiyu (τουλάχιστον 2 τεχνικές)
 SHOMENUCHI-Sankyo(ura) – Jiyu (τουλάχιστον 3 τεχνικές)
 
-Kaeshi waza:
+**Kaeshi waza:**
 
 SHOMENUCHI – Iriminage, Shihonage, Sankyo (ura) (2 τρόπους σε κάθε τεχνική)
 
