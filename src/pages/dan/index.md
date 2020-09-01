@@ -1,28 +1,28 @@
 ---
-templateKey: about-page
+templateKey: 'about-page'
 path: /dan
 title: Ύλη εξετάσεων DAN
+
 ---
-- - -
-
+---
 ### 1 DAN – SHODAN
-
 1. BOKKEN AWASE (1-7)
+
 2. JO AWASE (1-8)
 
-**Suwariwaza:**
+Suwariwaza:
 
 SHOMENUCHI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Iriminage
 
 TSUKI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Iriminage
 
-**Hanmi-handachiwaza:**
+Hanmi-handachiwaza:
 
 SHOMENUCHI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Iriminage
 
 KATATEDORI – Shihonage, Kaitennage (uchi, soto)
 
-**Tachiwaza:**
+Tachiwaza:
 
 RYOTEDORI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Shihonage, Kokyounage, Tenchinage
 
@@ -34,13 +34,13 @@ KATADORI – Kokyounage, Nikyo
 
 KATATERYOTEDORI – Kokyouho
 
-**Ushirowaza:**
+Ushirowaza:
 
 RYOTEDORI – Ikkyo, Nikyo, Sankyo, Yonkyo, Shihonage, Jujigarame, Koshinage
 
 KATATE-KUBIJIME – Ikkyo, Nikyo, Sankyo, Yonkyo, Iriminage, Jujigarame, Koshinage
 
-**Henka Oyou waza:**
+Henka Oyou waza:
 
 Suwariwaza-kokyouho (παραλλαγές από διάφορες επιθέσεις)
 
@@ -55,13 +55,16 @@ TORIWAZA – Περίπου 1 λεπτό τεχνικές από διαφορε�
 
 UCHIWAZA / TSUKIWAZA – Περίπου 1 λεπτό τεχνικές από διαφορετικές επιθέσεις χτυπημάτων
 
+
 ### 2 DAN – NIDAN
 
 1. Περιλαμβάνεται η ύλη του Shodan
+
 2. KUMMIJO (1-10)
+
 3. KUMMITACHI (1-5)
 
-**Tantodori:**
+Tantodori:
 
 SHOMENUCHI – Iriminage, Gokyo, Kotegaeshi
 
@@ -71,19 +74,19 @@ TSUKI – Kokyouho, Kotegaeshi, Nikyo
 
 KATADORI-TSUKI, USHIRO-ERIDORI (Μία τεχνική για κάθε επίθεση)
 
-**Suwariwaza:**
+Suwariwaza:
 
 YOKOMENUCHI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Iriminage
 
 KATATEDORI – Ikkyo, Nikko, Sankyo, Yonkyo, Kotegaeshi, Iriminage
 
-**Hanmi-Handachiwaza:**
+Hanmi-Handachiwaza:
 
 KATADORI – Ikkyo, Nikyo, Sankyo, Yonkyo, Iriminage
 
 USHIRO-RYOKATADORI – Kokyounage, Ikkyo, Sankyo, Kotegaeshi
 
-**Tachiwaza:**
+Tachiwaza:
 
 KATATERYOTEDORI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Iriminage, Shihonage
 
@@ -95,7 +98,7 @@ YOKOMENUCHI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kaitennage
 
 JODAN-TSUKI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Shihonage, Kaitennage, Kaitenosae, Udegarami
 
-**Ushirowaza:**
+Ushirowaza:
 
 RYOHIJIDORI – Ikkyo, Nikyo, Sankyo, Yonkyo, Kotegaeshi, Aikiotoshi
 
@@ -103,7 +106,7 @@ RYOHIJIDORI – Kokyounage (3 παραλλαγές)
 
 RYOTEDORI – Jiyuwaza
 
-**Henka oyou waza:**
+Henka oyou waza:
 
 KATATERYOTEDORI – Kokyouho (3 olika)
 
@@ -111,7 +114,7 @@ MUNADORI (με στρίψιμο στη λαβή) – Ikkyo, Nikyo
 
 MUNADORI (με στρίψιμο στη λαβή) – Iriminage (2 παραλλαγές)
 
-**Kaeshi waza:**
+Kaeshi waza:
 
 SHOMENUCHI – Kotegaeshi, Ikkyo, Nikyo (2 παραλλαγές)
 
@@ -119,13 +122,15 @@ Futaridori (στατικά): Shihonage, Kokyounage (2 παραλλαγές)
 
 Futarigake: Jiyu
 
-### 3 DAN – SANDAN
 
+### 3 DAN – SANDAN
 1. Συμπεριλαμβάνεται η ύλη του NIDAN
+
 2. KUMMITACHI HENKA (Ken-no-ri)
+
 3. KI-MUSUBI-NO-TACHI
 
-**Tantodori:**
+Tantodori:
 
 SHOMENUCHI – Gokyo, Iriminage
 
@@ -137,17 +142,17 @@ TSUKI – Ikkyo, Iriminage, Hijikimeosae
 
 KATADORI-TSUKI, USHIRO-ERIDORI (2 τεχνικές από κάθε επίθεση)
 
-**Tachidori:**
+Tachidori:
 
 SHOMENUCHI, YOKOMENUCHI, TSUKI (3 τεχνικές για κάθε επίθεση)
 
-**Jodori:**
+Jodori:
 
 SHOMENUCHI, TSUKI (3 τεχνικές για κάθε επίθεση)
 
 Jowaza (διάφορα πιασίματα): 5 τεχνικές
 
-**Suwariwaza:**
+Suwariwaza:
 
 MUNADORI – Ikkyo, Nikyo, Sankyo, Yonkyo, Iriminage
 
@@ -155,7 +160,7 @@ SHOMENUCHI – Jiyuwaza
 
 YOKOMENUCHI – Jiyuwaza
 
-**Hanmi-Handachiwaza:**
+Hanmi-Handachiwaza:
 
 KATATERYOTEDORI – Ikkyo, Nikyo, Sankyo, Yonkyo, Iriminage, Kotegaeshi
 
@@ -163,7 +168,7 @@ SHOMENUCHI – Jiyuwaza
 
 YOKOMENUCHI – Jiyuwaza
 
-**Tachiwaza:**
+Tachiwaza:
 
 RYOKATADORI – Ikkyo, Nikyo, Sankyo, Yonkyo, kokyounage
 
@@ -173,13 +178,13 @@ JODAN-TSUKI – Jiyuwaza
 
 CHUDAN-TSUKI – Jiyuwaza
 
-**Ushirowaza:**
+Ushirowaza:
 
 KAKAE – Ikkyo, Aikiotoshi, Kokyounage (2 παραλλαγές)
 
 HAGAIJIME – Iriminage
 
-**Henka oyou waza:**
+Henka oyou waza:
 
 RENZOKUWAZA (2 παραλλαγές ανά τεχνική):
 SHOMENUCHI-Ikkyo-Jiyu (Τουλάχιστον 3 τεχνικές)
@@ -187,7 +192,7 @@ SHOMENUCHI-Nikyo(ura) – Koshinage
 SHOMENUCHI-Nikyo(ura) – Jiyu (τουλάχιστον 2 τεχνικές)
 SHOMENUCHI-Sankyo(ura) – Jiyu (τουλάχιστον 3 τεχνικές)
 
-**Kaeshi waza:**
+Kaeshi waza:
 
 SHOMENUCHI – Iriminage, Shihonage, Sankyo (ura) (2 τρόπους σε κάθε τεχνική)
 
@@ -195,11 +200,14 @@ FUTARIDORI (στατικά): Ikkyo, Nikyo, Yonkyo, Kokyounage (2 παραλλα�
 
 SANNIN GAKE: Jiyu
 
-### 4 DAN – YONDAN
 
+### 4 DAN – YONDAN
 1. Συμπεριλαμβάνεται η ύλη των SHODAN, NIDAN, SANDAN
+
 2. KUMMITACHI-HENKAWAZA (Tai-no-ri)
+
 3. KEN-TAI-JO (1-7 με παραλλαγές, αν υπάρχουν)
+
 4. Διάφορες μορφές JIYU-WAZA
 
 GERI DORI: 3 τεχνικές
