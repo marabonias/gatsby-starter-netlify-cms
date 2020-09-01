@@ -1,29 +1,54 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: "Συνέντευξη: Petteri Silenius, shihan, 6th dan Aikikai"
+date: 2020-08-31T22:19:00.000Z
+description: >+
+  To Evolution Dojo έχει την τιμή να παρουσιάσει μία προσωπική συνέντευξη του
+  δασκάλου Petteri Silenius. Ο Petteri Silenius γεννήθηκε το 1965 στη Φινλανδία
+  και ασκείται στο Αϊκίντο από την ηλικία των 13. Εκτός από το Αϊκίντο, είναι
+  επίσης καταξιωμένος δάσκαλος στην παραδοσιακή ιαπωνική τέχνη όπλων του Katori
+  Shinto Ryu, όπου έχει το βαθμό του Εκπαιδευτή (Kyoshi Menkyo).
+
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/unnamed.jpg
 tags:
-  - brewing
-  - chemex
+  - ""
+  - Petteri Silenius
+  - Αikido
+  - συνέντευξη
 ---
-![chemex](/img/chemex.jpg)
+Από το 2008 έως το 2011 έμενε και δίδασκε στην Ελλάδα σε διάφορες σχολές Αϊκίντο, μεταξύ των οποίων και στις σχολές που ανήκουν στην Hellenic Aikido Partnership. Σήμερα, ο Petteri Silenius έχει επιστρέψει μόνιμα στη Φινλανδία, όπου διδάσκει στο Kemio, στο Turku και στο Raisio, διεξάγει τακτικά σεμινάρια τόσο στη Φινλανδία όσο και στο εξωτερικό, ενώ επιδιώκει την πνευματική του ανάπτυξη και έκφραση μέσω της καλλιτεχνικής δημιουργίας.
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+Ακολουθεί το πρώτο μέρος της συνέντευξης.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+***Πότε ξεκινήσατε το Αϊκίντο;***
 
-## The little secrets of Chemex brewing
+Η χρονιά ήταν το 1978 και ήμουν δεκατριών χρονών.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+***Πού διδάσκετε αυτή την εποχή; Πόσο καιρό είστε εκπαιδευτής Αϊκίντο;***
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Ξεκίνησα να διδάσκω γύρω στο 1980. Την εποχή εκείνη δεν υπήρχαν τόσοι πολλοί ικανοί εκπαιδευτές, οπότε ακόμα και ένας έφηβος σαν και εμένα είχε την ευκαιρία να διδάξει ορισμένα τμήματα. Τώρα διδάσκω τακτικά δύο φορές την εβδομάδα στο Turku, μία φορά την εβδομάδα στο Raisio και δύο φορές την εβδομάδα στο Kemio, όπου μένω κιόλας. Το Turku και το Raisio είναι περίπου μία ώρα μακριά από το Kemio με το αυτοκίνητο. Τα Σαββατοκύριακα ταξιδεύω σε όλη τη Φινλανδία και κάνω σεμινάρια. Η Ελλάδα είναι πλέον η μόνη ξένη χώρα που επισκέπτομαι. Παλαιότερα επισκεπτόμουν συχνά τη Σουηδία, τη Ρωσία, την Εσθονία και τη Βουλγαρία.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+***Γιατί / Πώς επιλέξατε το Αϊκίντο;***
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Όταν ήμουν μικρό παιδί έτυχε να παρακολουθήσω ορισμένες επιδείξεις Αϊκίντο. Άρχισα να διαβάζω βιβλία για αυτό και αποφάσισα ότι ήθελα να το μάθω. Μου άρεσε ιδιαίτερα η βαθύτερη φιλοσοφική του άποψη. Την εποχή εκείνη υπήρχε μόνο το τζούντο, το καράτε και το Αϊκίντο στη Φινλανδία. Το τζούντο και το καράτε όμως είχαν αγώνες, πράγμα που δε μου άρεσε.
+
+***Έχετε ασχοληθεί και με άλλες πολεμικές τέχνες; Αν ναι, ποιες και για πόσα χρόνια;***
+
+Για πολλά χρόνια έκανα και ιάιντο, από το 1979 μέχρι το 1987. Το βασικό μου στυλ ήταν το Muso Shinden ryu, στο οποίο πήρα το 2ο νταν από τον Gakudo Takada sensei. Αργότερα, το 1992, άρχισα να εξασκούμαι στο Katori Shinto Ryu υπό την καθοδήγηση του Tetsutaka Sugawara sensei. Συνεχίζω να το εξασκώ και το διδάσκω, καθώς έχω το βαθμό kyoshi menkyo, δηλαδή έχω άδεια εκπαιδευτή. Επίσης, έκανα μερικά χρόνια escrima και pekiti tirsia, που είναι μία φιλιππινέζικη και μία ινδονησιακή πολεμική τέχνη αντίστοιχα. Στις τέχνες αυτές δεν κατέχω κάποιο βαθμό. Έχω κάνει επίσης λίγο tai chi και chikung.
+
+***Πώς διαφέρει το Αϊκίντο από τις άλλες πολεμικές τέχνες που έχετε κάνει; Έχουν και ομοιότητες μεταξύ τους;***
+
+Για να είμαι ειλικρινής, έχω βρει περισσότερες ομοιότητες παρά διαφορές. Το ιάιντο έχει τις περισσότερες διαφορές από το Αϊκίντο, εάν λάβουμε υπόψη τη στάση και τον τρόπο κίνησης. Η πνευματική συγκέντρωση είναι η ίδια σε κάθε τέχνη, αλλά η διαφορά είναι πόσο από το πνεύμα σου βάζεις μέσα στις κινήσεις σου. Πιστεύω ότι το να κάνει κανείς και άλλες πολεμικές τέχνες είναι πολύ ευεργετικό για την κατανόησή του βαθύτερου νοήματος των κινήσεων του Αϊκίντο. Όταν κάνει κανείς άλλες πολεμικές τέχνες όμως, είναι σημαντικό να βρει έναν καλό και πεπειραμένο δάσκαλο.
+
+***Η προπόνηση στις άλλες πολεμικές τέχνες επηρέασε την αντίληψή σας για το Αϊκίντο; Εάν ναι, με ποιον τρόπο;***
+
+Ναι, επηρέασαν σημαντικά τον τρόπο με τον οποίο ασκώ το Αϊκίντο. Το ιάιντο που προσέφερε την πρώτη επαφή με το γιαπωνέζικο σπαθί, αρχικά το ιάιτο (σπαθί που δεν κόβει) και στη συνέχεια το shinken, το πραγματικό σπαθί. Με έμαθε λεπτομέρειες όπως το πώς να χρησιμοποιήσω το πραγματικό σπαθί και τη θήκη, τη saya. Αργότερα, το Katori Shinto ryu μου έμαθε έναν πιο δυναμικό τρόπο χρήσης των όπλων, τόσο των κοντύτερων όσο και των μακρύτερων. Το Katori με έμαθε επίσης πώς να χρησιμοποιώ το ισχυρό πνεύμα και τον ισχυρό νου. Το Escrima ήταν ένα ταξίδι για να μάθω αποτελεσματικές και ρεαλιστικές άμυνες και επιθέσεις με κοντά ξύλινα ραβδιά και μαχαίρια. Το Katori Shinto ryu και το escrima είναι πολύ ρεαλιστικές πολεμικές τέχνες. Σε μαθαίνουν να χρησιμοποιείς όπλα από διαφορετικές αποστάσεις. Γενικά, είναι σημαντικό να συνειδητοποιήσει κανείς το νόημα της συγκέντρωσης και να ανοίξει τη συνειδητότητά του. Αυτά τα στοιχεία βοηθάνε ώστε το Αϊκίντο να είναι πιο ενεργό και να έχει περισσότερη ζωντάνια. Από τις πολεμικές τέχνες που ανέφερα πήρα πολλές ιδέες σχετικά με το πώς να ασκούμαι με τα όπλα στο Αϊκίντο. Προσέθεσαν πολύ αλάτι και πιπέρι στη σούπα αυτή. Όμως, είναι σημαντικό να συνειδητοποιήσουμε ότι το Αϊκίντο είναι μια χαρά και με το δικό του μοναδικό τρόπο. Δεν είναι ανάγκη να το αλλάξουμε σε κάτι άλλο. Πρέπει να κατανοήσουμε ότι δεν υπάρχει μία πλήρης πολεμική τέχνη. Το σημαντικό στοιχείο είναι απλά να αναπτύξουμε το μυαλό και το πνεύμα μας ενώ ασκούμαστε με τους άλλους, να ανταλλάσσουμε ιδέες και να ιδρώνουμε μαζί.
+
+***Ποιος ήταν ο πρώτος σας δάσκαλος; Ποιο είναι το πιο χαρακτηριστικό στοιχείο που θυμάστε από αυτόν/ή;***
+
+Ο πρώτος μου Ιάπωνας εκπαιδευτής ήταν ο Ichimura sensei, 6ο νταν, shihan. Φυσικά, ξεκίνησα με Φινλανδούς εκπαιδευτές, οι οποίοι μου έδωσαν τις βασικές γνώσεις για το Αϊκίντο. Είμαι ευγνώμων που είχα την ευκαιρία να προπονηθώ μαζί τους και που είχαν την υπομονή να με διδάξουν. Ο Ichimura sensei επισκεπτόταν καμιά φορά τη Φινλανδία για σεμινάρια τα Σαββατοκύριακα. Ήταν πολύ απαιτητικός δάσκαλος και ήθελε οι μαθητές του να έχουν ισχυρό πνεύμα όσο έκαναν Αϊκίντο. Στη συνέχεια είχε κάποιες πολιτισμικές διαφωνίες με τους παλαιότερους μαθητές του και αποφάσισε να επιστρέψει στην Ιαπωνία. Εκείνη την εποχή ήμουν τόσο νέος που δεν είχα πολύ στενή σχέση μαζί του. Ήμουν απλά ένα νεαρό παιδί με ταλέντο και κάθε φορά που επισκεπτόταν τη Φινλανδία, με χτυπούσε στον ώμο και μου έλεγε: «Είσαι πολύ καλός!». Αυτό μου ζέστανε την καρδιά και με έκανε να συνεχίσω να ασκούμαι στο Αϊκίντο πιο σκληρά.
+
+***Στα χρόνια που κάνετε προπόνηση, έχετε προπονηθεί και με άλλους δασκάλους, διαφορετικού στυλ; Πείτε μας μερικά πράγματα για αυτούς.***
+
+Στα μέσα της δεκαετίας του '80 έγινα τακτικός μαθητής του Kazuo Igarashi sensei. Εκείνη την εποχή ήταν 5ο ή 6ο νταν. Ο Yasuo Kobayashi sensei, 8ο νταν, μου έδωσε την ευκαιρία να μείνω για δύο μήνες ως uchideshi στην Ιαπωνία το 1992. Κατά τη διάρκεια του ταξιδιού εκείνου έγινα μαθητής του Tetsutaka Sugawara sensei τόσο στο Katori Shinto ryu όσο και στο Αϊκίντο. Μετά από αυτό το πρώτο ταξίδι επισκέφτηκα πολλές φορές την Ιαπωνία για να κάνω προπόνηση μαζί τους. Οι δάσκαλοι αυτοί μου έδωσαν καλές βάσεις και με υποστήριξαν για πολλά χρόνια και τους σέβομαι όλους πάρα πολύ. Είναι εξαιρετικά έμπειροι και άνθρωποι με σεβαστό χαρακτήρα. Επίσης, έκανα προπόνηση για πολλά χρόνια με τον Seishiro Endo sensei, 8ο νταν, καθώς και τον Christian Tissier sensei, 7ο νταν. Θαυμάζω επίσης τον παρόντα Doshu, τον Moriteru Ueshiba, καθώς και τον τρόπο με τον οποίο κινείται. Είχα την τιμή να είμαι ούκε του πριν από μερικά χρόνια όταν έκανε σεμινάριο και επίδειξη στη Φινλανδία. Πιστεύω ότι οι δάσκαλοι αυτοί είναι που επηρέασαν την τεχνική μου και τον τρόπο σκέψης μου περισσότερο.
