@@ -1,21 +1,22 @@
 ---
 templateKey: index-page
+
 title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+image: /img/aikido_cropped.jpg
+heading: Great coffee with a conscien
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Aϊκίντο
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Το Αϊκίντο (Aikido, 合気道) είναι μία μοντέρνα πολεμική τέχνη με βαθιές ρίζες. Με μία φράση, θα την περιγράφαμε ως «ο δρόμος της αρμονικής ενέργειας».
+
+  text: >
+      Η ερμηνεία της φράσης αυτής βασίζεται στις τρεις βασικές έννοιες που την απαρτίζουν:
+
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Το Kenpo Karate εξελίχθηκε στις Ηνωμένες πολιτείες της Αμερικής από τον Ed Parker, ο οποίος χαρακτηρίζεται ως ο «πατέρας του Αμερικάνικου Karate».
+
+
 intro:
   blurbs:
     - image: /img/coffee.png

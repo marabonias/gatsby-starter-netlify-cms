@@ -10,10 +10,10 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+            backgroundImage: `url('/img/sample_bg_2.jpg')`,
           }}
         >
-        
+
         </div>
         <section className="section">
           <div className="container">

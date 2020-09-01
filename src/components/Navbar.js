@@ -67,13 +67,13 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/">
                 ΑΡΧΙΚΗ
               </Link>
-              <Link className="navbar-item" to="/products">
+              <Link className="navbar-item" href="/#prog">
                 ΠΡΟΓΡΑΜΜΑ
               </Link>
               <Link className="navbar-item" to="/about">
                 ΑΝΑΚΟΙΝΩΣΕΙΣ
               </Link>
-              <Link className="navbar-item" to="/blog">
+              <Link className="navbar-item" href="/#blog">
                 BLOG
               </Link>
               <Link className="navbar-item" to="/contact">
