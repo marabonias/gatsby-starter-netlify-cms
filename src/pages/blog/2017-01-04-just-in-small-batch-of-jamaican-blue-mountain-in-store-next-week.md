@@ -1,34 +1,71 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+templateKey: blog-post
+title: O Δαίμων της Δύναμης
+date: 2020-08-31T22:16:00.000Z
+description: >+
+  Μία συχνά παρεξηγημένη έννοια στο Αϊκίντο και σε πολλές άλλες πολεμικές τέχνες
+  είναι αυτή της δύναμης. Πολύ συχνά, ο νέος ασκούμενος θα ακούσει δηλώσεις
+  όπως: «Οι τεχνικές του Αϊκίντο δεν απαιτούν δύναμη για να εκτελεστούν» ή «Το
+  Αϊκίντο σου επιτρέπει να ακινητοποιήσεις έναν αντίπαλο ακόμα και αν αυτός
+  είναι πιο δυνατός από εσένα».
+
+
+
+  Οι δηλώσεις αυτές, αν και είναι αληθείς σε κάποιο βαθμό, δεν μεταδίδουν σωστά την πραγματική εικόνα της προπόνησης στο Αϊκίντο. Αν και θεωρητικά μία σωστά εκτελεσμένη τεχνική απαιτεί ελάχιστη προσπάθεια, οι συνθήκες εκτέλεσης της τεχνικής και η φύση της τεχνικής παίζουν σημαντικό ρόλο στο κατά πόσο η τεχνική μπορεί όντως να εκτελεστεί χωρίς τη χρήση δύναμης.
+
 featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+featuredimage: /img/aikido_cropped.jpg
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - ""
+  - aikido
+  - δύναμη
 ---
+### Άρα δηλαδή χρειάζομαι και δύναμη για την τεχνική;
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Ας εξετάσουμε με λίγο περισσότερη λεπτομέρεια το ρόλο της δύναμης στο Αϊκίντο.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Χοντρικά μιλώντας, η εκπαίδευση στο Αϊκίντο μπορεί να χωριστεί σε τρεις ευρείες κατηγορίες:
 
-## A little history
+1. Τις τεχνικές που εκτελούνται ενάντια σε επίθεση με πιάσιμο (στον καρπό, στο μανίκι, πιάσιμο από πίσω στα χέρια, πνιγμό κ.α.)
+2. Τις τεχνικές που εκτελούνται ενάντια σε επίθεση χτυπήματος (γροθιά, κατακόρυφο χτύπημα στο κεφάλι, κλωτσιά, επίθεση με μαχαίρι κ.α.)
+3. Τις τεχνικές και τις κινήσεις που εκτελούνται με χρήση των όπλων (ξύλινο σπαθί, ξύλινο σπαθί).
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Ας αφήσουμε κατ' αρχήν λίγο στην άκρη την δεύτερη και την τρίτη περίπτωση και ας ασχοληθούμε με την πρώτη, τις επιθέσεις από πιάσιμο.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
 
-## What you need to know before trying
+### Μα καλά, θα έρθει κανείς στο δρόμο να μου επιτεθεί πιάνοντας το χέρι μου;
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+Οι τεχνικές αυτές έχουν πρωτίστως εκπαιδευτικό σκοπό, καθώς ρεαλιστικά μιλώντας σπανίως κάποιος θα προσπαθήσει να επιτεθεί ακινητοποιώντας ένα μέρος του σώματος του άλλου και δη σε στατική κατάσταση, όπως γίνεται η εκπαίδευση στο Αϊκίντο. Βεβαίως, υπάρχει περίπτωση να «πιαστεί κανείς στα χέρια» με κάποιον άλλον, οπότε το να μπορεί κανείς να ξεφύγει από μία τέτοια κατάσταση είναι όντως χρήσιμο. Όμως οι περιπτώσεις αυτές είναι σπάνιες και συνήθως δεν περιλαμβάνουν τόσο μεγάλο κίνδυνο για τον αμυνόμενο (καθώς είναι δύσκολο να τραυματιστεί κανείς από απλό πιάσιμο).
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+
+### Άρα λοιπόν, τι εξυπηρετεί η εκπαίδευση με χρήση πιασίματος ως επίθεση;
+
+Η απάντηση είναι απλή. Η εκπαίδευση αυτή μας μαθαίνει να χρησιμοποιούμε τη δύναμή μας. Όχι τη μυϊκή δύναμη, αλλά τη δύναμη που έχει το σώμα μας από μόνο του. Η δύναμη αυτή δεν εξαρτάται από τη μυϊκή μάζα μας αλλά από τον τρόπο που χρησιμοποιούμε το σώμα μας και, για το λόγο αυτό, δεν είναι μία «άσκηση» όπως αυτές που κάνουμε π.χ. στο γυμναστήριο για να δυναμώσουμε, αλλά μία εξάσκηση για να μάθουμε να χρησιμοποιήσουμε πιο σωστά τη δύναμη που ήδη έχουμε.
+
+Με σωστή χρήση του σώματός μας είναι πρακτικά αδύνατον για κάποιον να μας ακινητοποιήσει όσο δυνατός και αν είναι, εφόσον γνωρίζουμε πώς να χρησιμοποιήσουμε το σώμα μας έτσι ώστε να υποστηρίξει την κίνηση των άκρων και να μην προσπαθούμε να μετακινήσουμε τα άκρα μας χρησιμοποιώντας μόνο τους αντίστοιχους μύες.
+
+
+
+### Για ποιο λόγο όμως λένε ότι «τεχνικές του Αϊκίντο δεν απαιτούν δύναμη»;
+
+Εδώ είναι που η δήλωση αυτή δεν είναι απόλυτα ακριβής.
+
+Οι τεχνικές του Αϊκίντο μπορεί να μην απαιτούν μυϊκή δύναμη, αλλά την ορθή εφαρμογή της δύναμης του σώματος όταν πρόκειται να ακινητοποιηθεί ο αντίπαλος. Καλό είναι να μην έχει αυταπάτες κανείς όταν ξεκινάει να εκπαιδεύεται στο Αϊκίντο: Ένας πιο μεγαλόσωμος αντίπαλος απαιτεί ορθότερη χρήση της δύναμης του σώματος για την εκτέλεση της τεχνικής και την ακινητοποίησή του. Για να εκτελεστεί σωστά και «ξεκούραστα» η τεχνική, η δύναμη αυτή θα πρέπει να εφαρμοστεί την κατάλληλη στιγμή - δηλαδή όταν ο αντίπαλος βρίσκεται εκτός ισορροπίας και σε μειονεκτική θέση.
+
+Αυτό όμως δεν αλλάζει το γεγονός ότι θα πρέπει να γνωρίζουμε πώς να χρησιμοποιήσουμε σωστά τη δύναμη που έχουμε ήδη και πότε χρειάζεται να τη χρησιμοποιήσουμε ώστε να έχουμε το επιθυμητό αποτέλεσμα με το λιγότερο δυνατό κόπο. Την ορθή χρήση της δύναμης τη μαθαίνουμε από τις επιθέσεις που περιλαμβάνουν πιάσιμο γιατί τότε, όταν ο αντίπαλος μας έχει δεσμεύσει με τη δύναμή του, είμαστε υποχρεωμένοι να χρησιμοποιήσουμε πιο σωστά τη δική μας δύναμη ώστε να ξεφύγουμε και να εκτελέσουμε την τεχνική. Όταν ο αντίπαλος βρίσκεται εν κινήσει δεν μπορεί να εφαρμόσει τη δύναμή του και να κινείται ταυτόχρονα, οπότε είναι πιο εύκολα τα πράγματα. Όταν είμαστε και οι δύο ακίνητοι όμως, ο αντίπαλος μπορεί να εφαρμόσει πλήρως τη δύναμή του για να μας ακινητοποιήσει και εμείς ερχόμαστε σε θέση να πρέπει να μάθουμε να χρησιμοποιούμε σωστά τη δική μας.
+
+
+
+### Άρα θέλει «έξυπνη» δύναμη!
+
+Καλό είναι να θυμόμαστε ότι η έννοια της δύναμης σε καμία περίπτωση δεν απουσιάζει από το Αϊκίντο. Απλά στο Αϊκίντο όταν μιλάμε για δύναμη μιλάμε για την τεχνική εφαρμογή της δύναμης του σώματος που έχουμε όλοι μέσα μας και όχι για τη ακατέργαστη χρήση της μυϊκής μάζας.
+
+
+
+*Με Πολεμικούς Χαιρετισμούς,*
+
+
+
+Άγγελος Σκέμπρης
